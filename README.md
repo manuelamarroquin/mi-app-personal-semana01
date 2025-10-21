@@ -16,14 +16,14 @@ Aplicación móvil creada con **React Native**, **Expo** y **TailwindCSS**, dond
 
 ##  Características
 
-✅ Sección de **perfil** con foto, nombre y biografía  
-✅ Sección de **contacto** y **redes sociales**  
-✅ Sección de **habilidades**
-✅ Sección de **proyectos** con tarjetas dinámicas
-✅ Sección de **experiencia** y **educación**  
-✅ Diseño atractivo con **TailwindCSS**  
-✅ Interfaz **responsive**
-✅ Código escrito en **TypeScript** con componentes reutilizables
+Sección de **perfil** con foto, nombre y biografía  
+Sección de **contacto** y **redes sociales**  
+Sección de **habilidades**
+Sección de **proyectos** con tarjetas dinámicas
+Sección de **experiencia** y **educación**  
+Diseño atractivo con **TailwindCSS**  
+Interfaz **responsive**
+Código escrito en **TypeScript** con componentes reutilizables
 
 ---
 
