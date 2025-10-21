@@ -43,7 +43,7 @@ Proyectos : ![Proyectos](./screenshots/proyectos.png)
 ###  Clonar el repositorio
 
 git clone https://github.com/manuelamarroquin/mi-app-personal-semana01
-cd mi-app-personal
+cd mi-app-personal-semana01
 
 
 ###  Instalar dependencias
