@@ -27,16 +27,6 @@ Código escrito en **TypeScript** con componentes reutilizables
 
 ---
 
-##  Screenshots
-
-Ubicadas en la carpeta `/screenshots/` del repositorio.
-
-
-Perfil: ![Perfil](./screenshots/perfil.png) 
-Habilidades : ![Habilidades](./screenshots/habilidades.png) 
-Proyectos : ![Proyectos](./screenshots/proyectos.png) 
-
-
 
 ##  Instrucciones de instalación
 
